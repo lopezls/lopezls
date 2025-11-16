@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**lopezls/lopezls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Lorelei! A MS CS Student pivoting from healthcare 💊 to tech 🖥️
 
 - 🔭 I’m currently working on:
