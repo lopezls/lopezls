@@ -3,12 +3,10 @@
 I'm Lorelei! A MS CS Student pivoting from healthcare 💊 to tech 🖥️
 
 - 🔭 I’m currently working on:
-  * Personal portfolio webstie
+  * Data Collector Dashboard
 
 
 - 🌱 I’m currently learning ...
-    * Data Visualization
-    * Discrete Math and Algorithms
+    * Tableau
+    * Streamlit
   
-- ⚡ Fun fact: ...
-  *I'll get back to you
