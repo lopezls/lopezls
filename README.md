@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lorelei!
+### Hi there 👋 I'm Lorelei!
 
 -💊 Senior Specialty Pharmacist (PharmD) · MBA · MS Computer Science student  
 -🖥️ Deepening my impact in clinical pharmacy through tech and data analytics 
