@@ -19,8 +19,9 @@ management program interactions — built from firsthand domain expertise.
 ---
 
 ### 🌱 Currently learning
-- Deeping my knowledge of SQL & Python
-- Full stack web development (HTML · CSS · JavaScript)
+- Machine Learning (Scikit-learn, CRISP-DM)
+- Full Stack Web Development (MERN stack)
+- FHIR & Healthcare Interoperability Standards
 
 ---
 
