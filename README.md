@@ -40,7 +40,7 @@ management program interactions — built from firsthand domain expertise.
 ---
 
 ### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lorelei-leel-lopez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lorelei-lee-lopez)
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=lopezls&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" height="165" />
