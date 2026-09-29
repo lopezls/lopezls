@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:F9A8D4,100:FDBA74&height=100&section=header" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=FFABF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lorelei+%F0%9F%8C%BA;Pharmacist+turned+Builder;Clinical+Expertise+%C3%97+Analytics+%C3%97Data" alt="Typing intro" />
+
+</div>
+
 ### Hi there 👋 I'm Lorelei!
 
 - 🏥 Senior Specialty Pharmacist (PharmD, MBA) working with high-acuity patients across oncology, immunology, neurology, and respiratory disease
