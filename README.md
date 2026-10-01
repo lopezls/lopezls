@@ -33,8 +33,8 @@ A pharmacist-built MVP that automates the first pass of oncology regimen
 completeness review: checking charts against clinical guidelines and flagging gaps before pharmacist
 sign-off to allow time for appropriate interventions.
 
--🔗 [Live Demo](https://oncology-regimen-review.vercel.app/)
--📁 [Repository](https://github.com/lopezls/oncology-regimen-review)
+- 🔗 [Live Demo](https://oncology-regimen-review.vercel.app/)
+- 📁 [Repository](https://github.com/lopezls/oncology-regimen-review)
 
 ### 🌱 Currently learning
 - 🤖 Machine Learning with Scikit-learn and the CRISP-DM framework
