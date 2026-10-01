@@ -21,11 +21,20 @@
 A purpose-built clinical metrics tracking app for specialty pharmacy patient 
 management program interactions — built from firsthand domain expertise.
 
-- 🔗 [Live Demo](https://lopezls-datacollector.streamlit.app/) · 
-- 📁 [Repository](https://github.com/lopezls/DataCollector) · 
+- 🔗 [Live Demo](https://lopezls-datacollector.streamlit.app/) 
+- 📁 [Repository](https://github.com/lopezls/DataCollector) 
 - 📖 [Wiki / Documentation](https://github.com/lopezls/DataCollector/wiki)
 
 ---
+### 🚧 Currently Working on
+
+**Oncology Specialty Regimen Review**  
+A pharmacist-built MVP that automates the first pass of oncology regimen
+completeness review: checking charts against clinical guidelines and flagging gaps before pharmacist
+sign-off to allow time for appropriate interventions.
+
+-🔗 [Live Demo](https://oncology-regimen-review.vercel.app/)
+-📁 [Repository](https://github.com/lopezls/oncology-regimen-review)
 
 ### 🌱 Currently learning
 - 🤖 Machine Learning with Scikit-learn and the CRISP-DM framework
