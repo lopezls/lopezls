@@ -12,6 +12,17 @@
 - 📊 Building data and analytics tools at the intersection of healthcare and technology
 - 🎓 MS Computer Science at Ball State University (Spring 2027)
 - 💡 I understand the clinical workflow and the data behind it, so I build what the end user actually needs
+---
+
+### 🚧 Currently Working on
+
+**Oncology Specialty Regimen Review**  
+A pharmacist-built MVP that automates the first pass of oncology regimen
+completeness review: checking charts against clinical guidelines and flagging gaps before pharmacist
+sign-off to allow time for appropriate interventions.
+
+- 🔗 [Live Demo](https://oncology-regimen-review.vercel.app/)
+- 📁 [Repository](https://github.com/lopezls/oncology-regimen-review)
 
 ---
 
@@ -26,15 +37,6 @@ management program interactions — built from firsthand domain expertise.
 - 📖 [Wiki / Documentation](https://github.com/lopezls/DataCollector/wiki)
 
 ---
-### 🚧 Currently Working on
-
-**Oncology Specialty Regimen Review**  
-A pharmacist-built MVP that automates the first pass of oncology regimen
-completeness review: checking charts against clinical guidelines and flagging gaps before pharmacist
-sign-off to allow time for appropriate interventions.
-
-- 🔗 [Live Demo](https://oncology-regimen-review.vercel.app/)
-- 📁 [Repository](https://github.com/lopezls/oncology-regimen-review)
 
 ### 🌱 Currently learning
 - 🤖 Machine Learning with Scikit-learn and the CRISP-DM framework
