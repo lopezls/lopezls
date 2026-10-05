@@ -16,13 +16,11 @@
 
 ### 🚧 Currently Working on
 
-**Oncology Specialty Regimen Review**  
-A pharmacist-built MVP that automates the first pass of oncology regimen
-completeness review: checking charts against clinical guidelines and flagging gaps before pharmacist
-sign-off to allow time for appropriate interventions.
+**RX Call Aide**  
+Rx Call Aide is a Next.js demo that uses an AI assistant to turn a pharmacist's patient check-in call into a live checklist, a structured chart note, and rule-based suggestions for adverse drug events. The AI identifies what was said, and recommendations come only from a pharmacist-written rules file. Status: in progress.
 
-- 🔗 [Live Demo](https://oncology-regimen-review.vercel.app/)
-- 📁 [Repository](https://github.com/lopezls/oncology-regimen-review)
+- 🔗 [Live Demo](https://ade-normalizer.vercel.app/)
+- 📁 [Repository](https://github.com/lopezls/ade-normalizer)
 
 ---
 
